@@ -1,0 +1,25 @@
+# .gitignore para proyectos .NET
+
+# Ignorar carpetas de Visual Studio
+.vs/
+.vs2019/
+.vs2017/
+
+# Ignorar carpetas de compilación
+bin/
+obj/
+
+# Ignorar configuraciones de usuario y archivos temporales
+*.user
+*.userosscache
+*.suo
+*.swp
+
+# Ignorar archivos de caché de Visual Studio Code
+.vscode/
+
+# Ignorar paquetes NuGet
+packages/
+
+# Ignorar otros archivos de configuración locales
+.idea/
